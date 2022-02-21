@@ -1,0 +1,16 @@
+Catalog Read: movie
+Exception: duplicate entry
+"The Lord of the Rings: The Fellowship of the Ring" "Peter Jackson" "2001" "Adventure, Drama, Fantasy" "Elijah Wood, Ian McKellen, Orlando Bloom" 
+Exception: duplicate entry
+"Perfume: The Story of a Murderer" " Tom Tykwer" "2006" "Crime, Drama, Fantasy" "Ben Whishaw, Dustin Hoffman, Alan Rickman" 
+Exception: missing field
+"The Lord of the Rings: The Fellowship of the Ring" "Peter Jackson" "2001" 
+Exception: missing field
+"The Lord of the Rings: The Fellowship of the Ring" "Peter Jackson" "2001" "Adventure, Drama, Fantasy" 
+2 unique entries
+search "Monkeys" in "title"
+Exception: command is wrong
+search "Spice" in "type"
+sort "year"
+"The Lord of the Rings: The Fellowship of the Ring" "Peter Jackson" "2001" "Adventure, Drama, Fantasy" "Elijah Wood, Ian McKellen, Orlando Bloom" 
+"Perfume: The Story of a Murderer"" Tom Tykwer""2006""Crime, Drama, Fantasy""Ben Whishaw, Dustin Hoffman, Alan Rickman"
